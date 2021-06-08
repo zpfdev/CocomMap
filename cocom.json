@@ -1712,7 +1712,7 @@
       "type": "Feature",
       "properties": {
         "name": "Auckland",
-        "FIPS_10_": "Southcom"
+        "FIPS_10_": "Pacom"
       },
       "geometry": {
         "type": "Polygon",
@@ -1914,7 +1914,7 @@
       "type": "Feature",
       "properties": {
         "name": "New Zealand",
-        "FIPS_10_": "Southcom"
+        "FIPS_10_": "Pacom"
       },
       "geometry": {
         "type": "Polygon",
@@ -2028,7 +2028,7 @@
       "type": "Feature",
       "properties": {
         "name": "TAS",
-        "FIPS_10_": "Southcom"
+        "FIPS_10_": "Pacom"
       },
       "geometry": {
         "type": "Polygon",
@@ -2680,7 +2680,7 @@
       "type": "Feature",
       "properties": {
         "name": "New Guinea",
-        "FIPS_10_": "Southcom"
+        "FIPS_10_": "Pacom"
       },
       "geometry": {
         "type": "Polygon",
@@ -2974,7 +2974,7 @@
       "type": "Feature",
       "properties": {
         "name": "Makassar",
-        "FIPS_10_": "Southcom"
+        "FIPS_10_": "Pacom"
       },
       "geometry": {
         "type": "Polygon",
