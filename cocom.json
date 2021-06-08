@@ -588,7 +588,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "FIPS_10_": "Southcom"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
